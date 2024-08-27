@@ -11,7 +11,7 @@ Los datos son agregados utilizando interpolación de Vue.js
    ```
 2. **Navega al directorio del proyecto**
    ```bash
-   cd InterpolacionVue-DesafioLatam
+   cd Desafio_interpolacion_variables
    ```
 3. **Instala las dependecias**
    ```bash
