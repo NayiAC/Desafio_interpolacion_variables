@@ -7,7 +7,7 @@ Los datos son agregados utilizando interpolación de Vue.js
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone git@github.com:VickyAzola/InterpolacionVue-DesafioLatam.git
+   git clone [git@github.com:NayiAC/Desafio_interpolacion_variables.git]
    ```
 2. **Navega al directorio del proyecto**
    ```bash
